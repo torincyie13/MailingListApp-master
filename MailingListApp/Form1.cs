@@ -1,4 +1,17 @@
-﻿using System;
+﻿/*
+* Torin Hawkins
+* June 6, 2021
+* 
+* inputs: txtName: string, collects user input for name; 
+*         txtAddress: collects user input for address; 
+*         txtCity: collects user input for city; 
+*         txtState: collects user input for State; 
+*         txtZip: collects user input for zip code
+* output: frmMailingList: a form that displays shipping information; 
+*         txtElaspedTime: a text box that shows the elasped time; 
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
